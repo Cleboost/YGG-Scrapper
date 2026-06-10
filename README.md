@@ -1,3 +1,5 @@
+# Site has been closed
+
 # 🔍 YGG Torrent Scrapper
 
 ## ⚠️ LEGAL DISCLAIMER
